@@ -1,0 +1,6 @@
+README.md
+setup.py
+Opiumforme.egg-info/PKG-INFO
+Opiumforme.egg-info/SOURCES.txt
+Opiumforme.egg-info/dependency_links.txt
+Opiumforme.egg-info/top_level.txt
